@@ -1,0 +1,52 @@
+.button {
+    background: #ED7FC1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    font-family: 'Arial', Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    height: 28px;
+    width: 85px;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background: #c9117c;
+}
+
+#button-login {
+    position: absolute;
+    width: 174px;
+    height: 56px;
+    top: 600px;
+}
+
+#button-login-registration {
+    position: absolute;
+    width: 250px;
+    height: 56px;
+    top: 700px;
+}
+
+#button-create-order{
+    position: relative;
+    top: 60px;
+    left: 115px;
+}
+
+#button-history-order{
+    background: #f39fd1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    font-family: 'Arial', Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    height: 28px;
+    width: 85px;
+    border-radius: 10px;
+    position: relative;
+    top: -5px;
+    left: 215px;
+}

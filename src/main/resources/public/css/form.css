@@ -1,0 +1,56 @@
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+#form-profile {
+    border-color: #0B5CF8;
+    border-width: 5px;
+}
+
+#form-create-order{
+    position: relative;
+    top: 200px;
+    height: 200px;
+}
+
+#form-order {
+    top: 0px;
+    position: relative;
+    width: 600px;
+    height: 600px;
+    background-color: #ffa7b7;
+}
+
+#form-map {
+    position: relative;
+    top: 0px;
+    height: 600px;
+    width: 600px;
+    background-color: aquamarine;
+}
+
+#form-suggest {
+    position: relative;
+    top: 0px;
+    left: 50px;
+}
+
+#form-history {
+    position: relative;
+    top: 100px;
+}
+
+#div-history-order{
+    width: 500px;
+    bottom: 10px;
+    background-color: #fdb0bd;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    border: thick double #000000;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

@@ -1,0 +1,82 @@
+img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: auto;
+    /* to keep proportions */
+    height: auto;
+    /* to keep proportions */
+    max-width: 100%;
+    /* not to stand out from div */
+    max-height: 100%;
+    /* not to stand out from div */
+}
+
+#image-bottom {
+    position:fixed;
+    margin: auto auto 0;
+    /* position to bottom and center */
+}
+
+#image-top {
+    margin: auto auto 100;
+}
+
+#image-taxi-car {
+    top: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+#image-poni {
+    top: 40%;
+    bottom: auto;
+    display: block;
+    margin-left: 30%;
+    margin-right: auto;
+    width: 10%;
+}
+
+#image-taxi-plate {
+    top: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: 10%;
+    width: 10%;
+}
+
+#image-taxi-badge {
+    top: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: 20%;
+    width: 10%;
+}
+
+#image-taxi-clock {
+    top: 60%;
+    display: block;
+    margin-left: 15%;
+    margin-right: auto;
+    width: 10%;
+}
+
+#image-taxi-phone {
+    top: 12%;
+    display: block;
+    margin-left: 15%;
+    margin-right: auto;
+    width: 7%;
+}
+
+#pic-clock {
+    left: -175px;
+}
+
+#pic-taxi {
+    left: 1188px; 
+}
